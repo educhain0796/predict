@@ -1,4 +1,4 @@
-Add this PRED token as manually into your wallet on FLOW Chain
+Add this PRED token as manually into your wallet on EDU Chain
 
 Contract Address = 0x2c326FaCC414D38C756DB0674F0919768712eDd6
 
@@ -14,7 +14,7 @@ Verify this Contract -> [Verify PRED](https://edu-chain-testnet.blockscout.com/a
 - **Live Predictions & Real-World Insights**  
   Leverage live data to make informed decisions in prediction markets.
 
-- **Flow Chain Advantages**  
+- **EDU Chain Advantages**  
   - High scalability  
   - Low transaction costs  
 
